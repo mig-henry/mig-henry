@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @mig-henry
-- 👀 I’m interested in learn 
-- 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on ...I still do not know 
-- 📫 How to reach me cell phone: (+55)81 99716-0297
+Miguel Henry
+Web Dev in Training
 
-<!---
-mig-henry/mig-henry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+• 2nd Year - Computer Networks Technical
+• Current: HTML/CSS
+• Path: JavaScript → Backend → Full Stack
+• GitHub showing progress
+
+Project: [Cars for Tuning](https://mig-henry.github.io/cars-for-tuning/)
+- Cars by price range (5k-30k BRL)
+| [Code](https://github.com/mig-henry/cars-for-tuning)
